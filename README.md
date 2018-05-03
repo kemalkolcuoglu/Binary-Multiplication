@@ -6,3 +6,6 @@ Geliştirilirken "Strategy" Tasarım Deseni kullanılmıştır.
 Algoritmaların nasıl çalıştığı ile ilgili daha detaylı bilgi edinmek için yazılım içerisindeki "Algoritması" butonlarına basabilir ya da Bu repo içerisindeki "İkilik Tabanda Çarpma İşlemi" adlı pdf dosyasını kullanabilirsiniz.
 
 Kemal Kolcuoğlu - Selçuk Üniversitesi Bilgisayar Mühendisliği Öğrencisi
+
+
+Geliştirme Tarihi: 13/12/2017
